@@ -1,0 +1,7 @@
+alt+insert新建一个文件
+ctrl+d复制一行
+ctrl+x删除一行【删除的是后面的内容】
+删除键是向前删除
+shift+enter开始下一行
+alt+左右方向键切换代码文件
+ctrl+alt+l格式化代码

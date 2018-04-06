@@ -1,0 +1,7 @@
+alt+/代码提示的快捷键
+switch能够判断哪些数据类型：
+int short char byte String(不是基本数据类型，1.7以后才支持)
+一巴掌：四个基本数据类型和String 
+不能使用switch判断的是long boolean float  double
+
+    

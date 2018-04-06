@@ -1,0 +1,56 @@
+1.js中默认的div的marginLeft是''；
+2.div.style.marginLeft=500+'px',js中别忘记加上双引号！
+3.
+
+
+10.
+1.array:
+concact
+join字符串，默认逗号隔开
+pop删除最后一个元素并返回
+push删除最后一个
+shift开头删除一个元素
+unshift开头添加一个元素
+reverse倒序
+sort
+
+2.date:
+var date=new Date()获取当前时间
+date.getFullYear()
+date.getMonth()+1
+date.getDay()一周里面的第几天
+date.getDate()获取日
+date.getHour()
+date.getMinutes()
+date.getSeconds()
+date.getMilliSeconds()毫秒数
+date.getTime()1970年1月1日0时间0分0秒0毫秒-现在时间的毫秒数,获取时间戳
+时间->时间戳：date.setFullYear(2000)...set... ...getTime()  超出十月份则自动判断
+
+3.math:
+Math.random()
+a到b之间的随机数：a+(b-a)*Math.random()
+abs
+ceil向上取整
+floor向下取整 floor(-3.14)
+pow(x,y)x的y次幂
+round四舍五入
+sqrt开方
+
+4.string：
+属性：length
+charAt(1)返回字符串中指定位置的字符，从0开始
+charCodeAt(1)指定位置的字符编码数字
+indexOf('sd')返回指定字符串在某个字符串中的位置，没有则返回-1
+lastIndexOf('sd')返回最后一次出现的位置，没有则返回-1
+replace('a','A')第一个替换了
+substr(2,3)从2开始截取3个（字符串截取）
+substring(2,3)从2开始到3结束，包含2不包含3
+touppercase tolowercase转换成大小写
+字符之可以比较大小
+
+split用指定的字符
+substring(a,b)b可选择
+var span = document.querySelector("#password + span");
+text-indent首行缩进
+text-align：right右对齐
